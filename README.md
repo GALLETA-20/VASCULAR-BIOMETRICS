@@ -64,4 +64,3 @@ sobrecargar el procesador de la Raspberry Pi.
 
 ---
 
-## Pipeline de procesamiento
