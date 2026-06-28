@@ -78,9 +78,9 @@ sobrecargar el procesador de la Raspberry Pi.
 A continuación se muestra el flujo de transformación de la imagen, desde la captura cruda en infrarrojo hasta la extracción final del patrón vascular mediante el algoritmo de Frangi.
 
 <p align="center">
-  <img src="images/1_ir_original.png" width="30%" alt="Imagen IR Original" />
-  <img src="images/2_clahe_enhancement.png" width="30%" alt="Mejora con CLAHE" />
-  <img src="images/3_frangi_vesselness.png" width="30%" alt="Resultado Filtro Frangi" />
+  <img src="images/original.png" width="30%" alt="Imagen IR Original" />
+  <img src="images/clahe.png" width="30%" alt="Mejora con CLAHE" />
+  <img src="images/frangi.png" width="30%" alt="Resultado Filtro Frangi" />
 </p>
 
 <p align="center">
